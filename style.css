@@ -11,3 +11,52 @@
     border: 5px solid black;
 }
 
+.green-box{
+    display:block;
+    background-color: rgb(205, 253, 205);
+    border:solid rgb(35, 185, 35);
+    padding: 2vw;
+    border-radius: 3vh;
+    width: 25%;
+    color: rgb(2, 182, 59);
+}
+
+
+.red-box{
+    display:block;
+    background-color: rgb(249, 230, 210);
+    border:solid rgb(243, 143, 44);
+    padding: 2vw;
+    border-radius: 3vh;
+    width: 25%;
+    color: rgb(255, 121, 25);
+}
+
+
+.blue-box{
+    display:block;
+    background-color: rgb(201, 225, 255);
+    border:solid rgb(0, 95, 248);
+    padding: 2vw;
+    border-radius: 3vh;
+    width: 25%;
+    color: rgb(0, 128, 255);
+}
+
+.buttons{
+    display: inline-block;
+    color: white;
+    border-radius: 2.7vh;
+}
+
+.green {
+    background-color: rgb(0, 190, 73);
+}
+
+.blue{
+    background-color: rgb(0, 140, 255);
+}
+
+.purple{
+    background-color: rgb(166, 88, 192);
+}
